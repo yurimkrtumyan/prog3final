@@ -1,0 +1,44 @@
+.chart {
+  width: 100%; 
+  min-height: 450px;
+}
+
+.tablechart {
+  width: 100%;
+}
+#index {
+  background-color: orange;
+  border: 2px solid black;
+  text-align: center;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 10px;
+  margin-top: 10px; 
+}
+#index2{
+  background-color: red;
+  border: 2px solid black;
+  text-align: center ;  
+  width: 50%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 10px;
+  margin-top: 10px; 
+}
+#index3{
+  background-color: blue;
+  border: 2px solid black;
+  text-align: center ;
+  width: 60%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 10px;
+  margin-top: 10px; 
+}
+body{
+  background-color: lightblue
+}
+.index4{
+  margin-left: 5%;
+}
